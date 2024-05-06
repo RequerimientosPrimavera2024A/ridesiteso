@@ -1,5 +1,8 @@
 Feature: Historial de Viajes y Recibidos
-
+    Como usuario de la aplicación Rides ITESO
+    Quiero poder acceder y visualizar un historial de mis viajes realizados y recibidos
+    Para tener un registro de mis experiencias pasadas y revisar los detalles de cada viaje cuando sea necesario.
+    
 Scenario: Acceso al historial de viajes desde la sección de "Perfil"
     Given que el usuario está en la pantalla de perfil de la aplicación
     When encuentra un botón claramente etiquetado como "Historial de Viajes"

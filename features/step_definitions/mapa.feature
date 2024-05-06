@@ -1,5 +1,8 @@
 Feature: Mapa interactivo estilo Google Maps
-
+    Como usuario de la aplicación Rides ITESO
+    Quiero poder acceder y visualizar un historial de mis viajes realizados y recibidos
+    Para tener un registro de mis experiencias pasadas y revisar los detalles de cada viaje cuando sea necesario.
+    
 Scenario: Acceso al Mapa Interactivo desde la Pantalla Principal con Icono
     Given el usuario accede a la pantalla principal de la aplicación "Rides ITESO"
     When encuentra un icono claramente identificado que lo redirige al mapa interactivo

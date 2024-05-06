@@ -1,4 +1,7 @@
 Feature: GPS
+    Como usuario de la aplicación Rides ITESO
+    Quiero tener acceso claro y fácil a la función de GPS
+    Para poder seguir mi viaje con precisión y visualizar las ubicaciones en tiempo real en el mapa interactivo
 
 Scenario: Acceso claro a la función de GPS desde la sección "Viajes"
     Given el usuario abre la aplicación Rides ITESO
